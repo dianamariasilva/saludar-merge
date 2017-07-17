@@ -1,3 +1,4 @@
 function saludar(){
-	console.log ("Hola mundo");
+	var tex = "Adios mundo =( Cruel"
+	console.log (tex);
 }
